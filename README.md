@@ -56,7 +56,7 @@ scapy → (optional) network sniffing
 Start DragonKit manually:
 
 python dragonkit.py
-⚖️ Disclaimer
+## ⚖️ Disclaimer
 
 DragonKit is for educational, defensive, and awareness purposes only.
 Do not use it against systems you don’t own or have explicit permission to test.
